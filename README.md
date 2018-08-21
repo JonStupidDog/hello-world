@@ -1,2 +1,2 @@
 # hello-world
-Use testing
+A test
